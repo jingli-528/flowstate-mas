@@ -29,7 +29,7 @@ This log records how FlowState's product decisions were made: the options consid
 
 | PRD version | Date | Decisions introduced | What changed in the PRD | Commit |
 |---|---|---|---|---|
-| v0.1 | 2026-11-27 | D-001 to D-010 | First draft from the course spreadsheet idea. Industry chosen; scope narrowed from "plant-to-logistics flow optimization" to "line-down recovery decision"; Week 1 written in full; Weeks 2–5 outlined. After the PRD self-eval: primary metrics cut from 5 to 2 (quality metrics split out); validation plan, kill criteria and GTM wedge added. | *(add link after commit)* |
+| v0.1 | 2026-11-27 | D-001 to D-010 | First draft from the course spreadsheet idea. Industry chosen; scope narrowed from "plant-to-logistics flow optimization" to "line-down recovery decision"; Week 1 written in full; Weeks 2–5 outlined. After the PRD self-eval: primary metrics cut from 5 to 2 (quality metrics split out); validation plan, kill criteria and GTM wedge added. | [2c85e8d](https://github.com/jingli-528/flowstate-mas/commit/2c85e8d) |
 
 ---
 
